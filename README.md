@@ -7,7 +7,7 @@ https://ourairports.com/data/
 Navigational Aids (Navaids) are essential for aviation safety, providing critical location and directional data for aircraft. This project develops a *machine learning model* to predict Navaid power levels based on multiple operational features.
 
 ##  Objective
-Predict Navaid power levels (*LOW, MEDIUM, HIGH) using features like frequency, elevation, and magnetic variation. Accurate predictions enhance **aviation infrastructure planning, resource allocation, and navigation system reliability*.
+Predict Navaid power levels (LOW, MEDIUM, HIGH) using features like frequency, elevation, and magnetic variation. Accurate predictions enhance **aviation infrastructure planning, resource allocation, and navigation system reliability**.
 
 ##  Why is Power Prediction Important?
 - *Preventing Equipment Failure* –  Aviation navigation relies on continuous signal availability. Low or excessive power levels can indicate potential equipment degradation or impending failure, allowing for proactive maintenance before critical failures occur.
